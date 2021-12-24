@@ -1,0 +1,3 @@
+[submodule "sub-project"]
+	path = sub-project
+	url = https://github.com/acu8/sub-project.git
